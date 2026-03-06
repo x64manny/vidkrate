@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/types.ts","./src/vite-env.d.ts","./src/components/job-card.tsx","./src/lib/format.ts","./src/workers/converter-client.ts","./src/workers/converter-worker.ts"],"version":"5.9.3"}
